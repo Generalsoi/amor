@@ -4,7 +4,7 @@ import TypewriterComponent from "typewriter-effect";
 
 export const Details: FC = () => {
   return (
-    <div className="px-4 md:px-20 py-6 font-ibmPlexMono">
+    <div className="px-4 md:px-20 py-6 font-ibmPlexMono bg-black text-white">
       <h1 className="md:text-8xl text-5xl font-extrabold animate-swipeIn">
         Hey baby
       </h1>
