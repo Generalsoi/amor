@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import Amor8 from "./assets/amor1.jpg";
+import Amor8 from "./assets/amorone.jpg";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import { Link } from "react-router-dom";
 

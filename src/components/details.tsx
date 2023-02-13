@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import FineGirl from "../assets/amor2.jpg";
+import FineGirl from "../assets/amortwo.jpg";
 import TypewriterComponent from "typewriter-effect";
 
 export const Details: FC = () => {
