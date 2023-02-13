@@ -22,7 +22,7 @@ export const Details: FC = () => {
         <img
           src={FineGirl}
           alt="fine-girl"
-          className="w-80 h-80 object-fill rounded-[50%]"
+          className="w-80 h-fit object-cover rounded-lg"
         />
       </div>
 
